@@ -16,6 +16,9 @@
 - Автоматическое сохранение каталога между запусками.
 - Создание отчёта о сеансе при выходе.
 
+![screen1](https://github.com/asupreme1337/Home-Library/blob/main/screen1.jpg)
+![screen2](https://github.com/asupreme1337/Home-Library/blob/main/screen2.jpg)
+
 ## Установка и запуск
 
 Для запуска нужны 64-разрядная Windows, Python 3.13 и библиотеки из `requirements.txt`. Интернет требуется только для установки зависимостей.
